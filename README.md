@@ -11,4 +11,5 @@ Technology Uses:
 2) Relational Table
 3) ASP.NET MVC5
 4) Bootstrap
-5) .NET Framework
+5) JQuery
+6) .NET Framework
