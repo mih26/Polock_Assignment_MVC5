@@ -1,0 +1,14 @@
+# Polock_Assignment_MVC5
+
+Step for Uses this Application
+a) At First run this program 
+b) Create New items as required field
+c) Insert Delivery Person Information into Delivery_Person
+d) Finally Create Delivery_Management Details
+
+Technology Uses:
+1) SQL Server (Code 1st with Entity Framework)
+2) Relational Table
+3) ASP.NET MVC5
+4) Bootstrap
+5) .NET Framework
