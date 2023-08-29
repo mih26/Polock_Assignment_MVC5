@@ -1,6 +1,6 @@
 # Polock_Assignment_MVC5
 
-Step for Uses this Application
+Steps for run this Application
 a) At First run this program 
 b) Create New items as required field
 c) Insert Delivery Person Information into Delivery_Person
@@ -12,4 +12,5 @@ Technology Uses:
 3) ASP.NET MVC5
 4) Bootstrap
 5) JQuery
-6) .NET Framework
+6) Ajax
+7) .NET Framework
